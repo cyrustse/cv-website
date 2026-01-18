@@ -1,0 +1,286 @@
+{
+  "profile": {
+    "name": "Cyrus Tse",
+    "title": "IT Solution Architect",
+    "tagline": "All round IT Expert across Financial, Hotel, Manufacturing, Retail and Telecommunication industries",
+    "greeting": "Hello, I'm",
+    "logo": "CT",
+    "email": "tsechunhong@gmail.com",
+    "location": "Hong Kong",
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/cyrustse/",
+      "website": "https://cyrustse.github.io/",
+      "twitter": "https://x.com/cyrustse"
+    }
+  },
+  "hero": {
+    "buttons": {
+      "primary": "Get In Touch",
+      "secondary": "View Work"
+    },
+    "scrollIndicator": "Scroll to explore",
+    "typingAnimation": ["IT Architect", "Solution Architect", "Tech Leader"]
+  },
+  "about": {
+    "title": "About Me",
+    "lead": "A skillful IT Architect with over 17 years of experience as an Architect and Technical Lead.",
+    "description": [
+      "With extensive expertise across Financial, Hotel, Manufacturing, Retail, and Telecommunication industries, I specialize in designing and implementing enterprise-scale solutions. My approach combines strong analytical thinking with a detail-oriented personality.",
+      "I possess excellent leadership and communication skills, with proven experience in working and communicating with international teams. I have a high passion for overcoming challenges and driving technological innovation."
+    ],
+    "stats": [
+      { "number": "17+", "label": "Years Experience" },
+      { "number": "6+", "label": "Industries Served" },
+      { "number": "50+", "label": "Projects Delivered" }
+    ],
+    "languages": [
+      { "name": "Cantonese", "level": "Native" },
+      { "name": "English", "level": "Professional" },
+      { "name": "Mandarin", "level": "Professional" }
+    ]
+  },
+  "certifications": {
+    "title": "Certifications",
+    "items": [
+      {
+        "name": "AWS Solutions Architect Professional",
+        "issuer": "Amazon Web Services",
+        "year": "2023"
+      },
+      {
+        "name": "Azure Solutions Architect Expert",
+        "issuer": "Microsoft",
+        "year": "2022"
+      },
+      {
+        "name": "TOGAF 9 Certified",
+        "issuer": "The Open Group",
+        "year": "2021"
+      },
+      {
+        "name": "Kubernetes Certified Administrator",
+        "issuer": "Cloud Native Computing Foundation",
+        "year": "2020"
+      }
+    ]
+  },
+  "experience": {
+    "title": "Work Experience",
+    "items": [
+      {
+        "title": "Solution Architect",
+        "company": "HSBC",
+        "fromDate": "2019",
+        "toDate": "Present",
+        "description": "End to end Architect for Wholesale Digital channel. Creating solution designs for products and features which support the execution of the technology strategy and roadmap.",
+        "highlights": [
+          "Align solutions to enterprise standards and policies while meeting business needs",
+          "Ensuring solution designs are cost effective through agile development lifecycle",
+          "Providing leadership to steer execution of defined solution design",
+          "Collaborating with Platform and Portfolio Architects to evolve architectural strategy",
+          "Defining cloud roadmap and ensuring footprint aligns with global standards"
+        ],
+        "tech": ["React", "Next.js", "APIs", "Java"]
+      },
+      {
+        "title": "Solution Architect",
+        "company": "Shangri-La (SLIM)",
+        "fromDate": "2018",
+        "toDate": "2019",
+        "description": "Lead the Architect design for the group. Providing input and functional direction to the Technology Platforms, API strategy and implementation roadmap.",
+        "highlights": [
+          "Identified technical solutions and business process improvements",
+          "Accountable for platform integration performance and efficiency",
+          "Performed hands-on solution architecture design and code reviews",
+          "Coaching and mentoring resources on solution architecture"
+        ],
+        "tech": ["React", "TypeScript", "Node.js", "GraphQL"]
+      },
+      {
+        "title": "System Analyst",
+        "company": "AS Watson",
+        "fromDate": "2017",
+        "toDate": "2018",
+        "description": "Refine the design of ERP and system architecture. Redesign and restructuring automation of company's operational processes.",
+        "highlights": [
+          "Led cross-functional departments during projects",
+          "Aligned resources to meet delivery schedules",
+          "Designed data analytics methodologies and implemented star schema"
+        ],
+        "tech": ["Java", "Python", "AS400"]
+      },
+      {
+        "title": "System Analyst",
+        "company": "NTT",
+        "fromDate": "2015",
+        "toDate": "2016",
+        "description": "Define the design of application and system architecture. Design and deliver key strategic enterprise cloud solutions.",
+        "highlights": [
+          "System flow and logical design for new and existing development",
+          "Code reviews ensuring quality and standards compliance"
+        ],
+        "tech": ["Android", "Java", "Kotlin"]
+      },
+      {
+        "title": "Analyst Programmer",
+        "company": "Li & Fung Trinity Limited",
+        "fromDate": "2014",
+        "toDate": "2015",
+        "description": "Design and enhance internal ERP, POS and CRM system.",
+        "highlights": [
+          "Developed enterprise resource planning solutions",
+          "Point of sale system enhancements",
+          "Customer relationship management implementation"
+        ],
+        "tech": ["C#.Net", "MSSQL", "Agile"]
+      },
+      {
+        "title": "System Analyst",
+        "company": "Winnitex",
+        "fromDate": "2009",
+        "toDate": "2014",
+        "description": "Design and enhance internal ERP and CRM system.",
+        "highlights": [
+          "Enterprise system architecture design",
+          "Internal software development and maintenance"
+        ],
+        "tech": ["C#", "ASP", "Agile"]
+      },
+      {
+        "title": "System Administrator",
+        "company": "Hunter Douglas",
+        "fromDate": "2008",
+        "toDate": "2009",
+        "description": "Server development and in-house software development.",
+        "highlights": [
+          "Windows Server administration",
+          "Linux server management"
+        ],
+        "tech": ["MS Server", "Linux"]
+      }
+    ]
+  },
+  "skills": {
+    "title": "Skills & Expertise",
+    "categories": [
+      {
+        "name": "Frontend",
+        "icon": "code",
+        "skills": ["Angular", "React", "Next.js", "TypeScript", "JavaScript", "Swift"]
+      },
+      {
+        "name": "Backend",
+        "icon": "monitor",
+        "skills": ["Java", "C#", "ASP.NET", "Python", "SpringBoot", "RUST"]
+      },
+      {
+        "name": "Database & Data",
+        "icon": "database",
+        "skills": ["SQL", "PostgreSQL", "MSSQL", "Redis", "Hazelcast"]
+      },
+      {
+        "name": "Architecture",
+        "icon": "tool",
+        "skills": ["System Architecture", "Security Architecture", "Application Architecture", "Cloud Solutions", "Microservices", "API Design"]
+      }
+    ]
+  },
+  "projects": {
+    "title": "Featured Projects",
+    "items": [
+      {
+        "title": "GBA Lending Project",
+        "description": "Design & Develop a new Lending application for NTB customer to submit lending application & drawdown request.",
+        "tech": ["TypeScript", "Next.js", "Browser Extension", "PostgreSQL"],
+        "link": "http://aastocks.com/tc/stocks/news/aafn-con/IC4375684/latest-news/INFOCAST",
+        "linkText": "View Details"
+      },
+      {
+        "title": "IADS - Open Banking Solution",
+        "description": "Design & Develop an open banking solution on Cloud to support both HSBC & HASE's CMB and WPB.",
+        "tech": ["TypeScript", "Next.js", "PostgreSQL", "Redis"],
+        "link": "https://sinews.hket.com/article/3713489",
+        "linkText": "View Details"
+      },
+      {
+        "title": "Remote Cheque Deposit",
+        "description": "Enables SMEs to deposit cheques via HSBC HK Business Express Mobile App whenever and wherever needed.",
+        "tech": ["TypeScript", "Next.js", "Tailwind CSS"],
+        "link": "https://www.linkedin.com/feed/update/urn:li:activity:6911948399172870144/",
+        "linkText": "View Details"
+      },
+      {
+        "title": "Remote Account Opening",
+        "description": "Digital account opening system allowing small businesses to open accounts without face-to-face meetings or physical documents.",
+        "tech": ["TypeScript", "Next.js", "Tailwind CSS"],
+        "link": "https://www.scmp.com/business/banking-finance/article/3090026/hsbc-debuts-digital-account-sign-process-small-business",
+        "linkText": "View Details"
+      },
+      {
+        "title": "Digital Business Banking Replatforming",
+        "description": "Replatform the existing banking system and transform from monolith to microservices architecture.",
+        "tech": ["TypeScript", "Next.js", "Tailwind CSS", "Microservices"],
+        "link": null,
+        "linkText": null
+      },
+      {
+        "title": "Digital Authorization Service",
+        "description": "Design & Develop a system that allows both banking and non-banking customers to perform authorization and signing requests.",
+        "tech": ["TypeScript", "Next.js", "Tailwind CSS"],
+        "link": null,
+        "linkText": null
+      }
+    ]
+  },
+  "education": {
+    "title": "Education",
+    "items": [
+      {
+        "degree": "Msc Business Information System",
+        "school": "City University of Hong Kong",
+        "date": "2008 - 2010"
+      },
+      {
+        "degree": "Bachelor of Business Management",
+        "school": "Victoria University",
+        "date": "2006 - 2008"
+      }
+    ]
+  },
+  "contact": {
+    "title": "Get In Touch",
+    "text": "I'm always open to discussing new opportunities, interesting projects, or architecture challenges. Feel free to reach out!",
+    "form": {
+      "labels": {
+        "name": "Name",
+        "email": "Email",
+        "subject": "Subject",
+        "message": "Message",
+        "submit": "Send Message"
+      },
+      "validation": {
+        "required": "Please fill in all fields",
+        "invalidEmail": "Please enter a valid email address"
+      },
+      "messages": {
+        "sending": "Sending...",
+        "success": "Message sent successfully!"
+      }
+    }
+  },
+  "footer": {
+    "copyright": "2026 Cyrus Tse. All rights reserved.",
+    "tagline": "IT Architect with 17+ years experience"
+  },
+  "navigation": {
+    "items": [
+      { "id": "about", "label": "About" },
+      { "id": "certifications", "label": "Certifications" },
+      { "id": "experience", "label": "Experience" },
+      { "id": "skills", "label": "Skills" },
+      { "id": "projects", "label": "Projects" },
+      { "id": "education", "label": "Education" },
+      { "id": "contact", "label": "Contact" }
+    ]
+  }
+}
